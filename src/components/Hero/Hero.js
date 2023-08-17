@@ -20,8 +20,9 @@ const Hero = (props) => (
         digital marketing but also serve as your committed growth allies. Our
         fundamental principles revolve around a robust Unique Selling
         Proposition that flawlessly merges data-based digital marketing
-        expertise with tailored coaching tactics, propelling businesses to
-        unparalleled revenue peaks.
+        expertise with tailored coaching tactics, teaching small business owners
+        and entrepreneurs how to save money while enhancing their advertising
+        strategies to achieve unparalleled revenue peaks.
       </SectionText>
       <Button
         onClick={() =>

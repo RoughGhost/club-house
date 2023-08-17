@@ -1,5 +1,11 @@
 import React from "react";
-import { DiFirebase, DiMailchimp, DiReact, DiZend } from "react-icons/di";
+import {
+  DiFirebase,
+  DiMailchimp,
+  DiReact,
+  DiWebplatform,
+  DiZend,
+} from "react-icons/di";
 import { BiLogoDigitalocean, BiMessageAltDetail } from "react-icons/bi";
 
 import {
@@ -55,6 +61,19 @@ const Technologies = () => (
             teams to unravel the intricacies of marketing, helping them craft
             resonant brand stories, devise impactful campaigns, and unlock the
             true potential of their digital presence.
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiWebplatform size="3rem" />
+        <ListContainer>
+          <ListTitle>Website Redesign</ListTitle>
+          <ListParagraph>
+            As a seasoned Website Redesigner with a flair for transforming
+            digital landscapes into captivating and functional masterpieces.
+            With a wealth of experience spanning 2+ years, I've breathed new
+            life into countless websites, weaving together aesthetics,
+            user-centric design, and cutting-edge technology.
           </ListParagraph>
         </ListContainer>
       </ListItem>

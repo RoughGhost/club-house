@@ -27,7 +27,7 @@ export const projects = [
     title: "Successful Snapchat Ads for a Fashion Brand ",
     description:
       "This  was a successful project where I ran Ads for a Fashion Brand on Snapchat",
-    image: "/images/snapchat-ads-dashboard.webp",
+    image: "/images/snapchat-ads-19.png",
     tags: ["Snapchat Ads", "Pay-Per-Click"],
     id: 3,
   },
