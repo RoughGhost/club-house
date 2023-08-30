@@ -1,8 +1,8 @@
 export const projects = [
   {
-    title: "Successful Google Ads for an E-commerce Store",
+    title: "Successful Google Ads for an Optometrist",
     description:
-      "This was a successful google ads that I ran for an E-commerce store helping them promote thier business effectively on Google",
+      "This was a successful google ads that I ran for an Optometrist helping him promote his business effectively on Google and getting him to book more clients",
     image: "/images/2.png",
     tags: ["Google Ads", "SEO", "Pay-Per-Click"],
     id: 0,
@@ -10,7 +10,7 @@ export const projects = [
   {
     title: "Succesful Facebook Ads for growing brands Visibility",
     description:
-      "This was a successful project that I worked on helping a cosmetic business grow thier brand visibility on Facebook",
+      "This was a successful project that I worked on helping an Eye Care business grow their brand visibility on Facebook",
     image: "/images/facebook-ads-dashboard-impressions.png",
     tags: ["Facebook Ads", "Pay-Per-Click"],
     id: 1,

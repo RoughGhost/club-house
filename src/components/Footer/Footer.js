@@ -18,10 +18,10 @@ const Footer = () => {
   return (
     <FooterWrapper>
       <LinkList>
-        <LinkColumn>
+        {/* <LinkColumn>
           <LinkTitle>Call</LinkTitle>
           <LinkItem href="tel:+234-91-5055-6281">+234-91-5055-6281</LinkItem>
-        </LinkColumn>
+        </LinkColumn> */}
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="mailto:stephenlouis34e@gmail.com">
@@ -34,13 +34,13 @@ const Footer = () => {
           <Slogan> Shoot for the Stars, Aim for the Moon</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/RoughGhost">
+          <SocialIcons href="https://github.com/">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/creative-stephen-louis">
+          <SocialIcons href="https://www.linkedin.com/in/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.facebook.com/stephen.louis.3110">
+          <SocialIcons href="https://www.facebook.com/">
             <AiFillFacebook size="3rem" />
           </SocialIcons>
         </SocialContainer>

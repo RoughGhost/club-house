@@ -13,22 +13,19 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle>
         Hola !<br />
-        Welcome to My Personal Portfolio
+        Welcome to AstraStream Digital
       </SectionTitle>
       <SectionText>
-        You have arrived at AstraStream Digital, where we not only specialize in
-        digital marketing but also serve as your committed growth allies. Our
+        You have arrived at AstraStream Digital an SMM (Social Media Marketing)
+        Agency based in Abu-Dhabi, UAE. We not only specialize in digital
+        marketing but also serve as your committed growth allies. Our
         fundamental principles revolve around a robust Unique Selling
         Proposition that flawlessly merges data-based digital marketing
         expertise with tailored coaching tactics, teaching small business owners
-        and entrepreneurs how to save money while enhancing their advertising
-        strategies to achieve unparalleled revenue peaks.
+        how to enhance their advertising strategies to achieve unparalleled
+        revenue peaks wihout breaking the bank.
       </SectionText>
-      <Button
-        onClick={() =>
-          (window.location = "https://www.facebook.com/stephen.louis.3110")
-        }
-      >
+      <Button onClick={() => (window.location = "https://www.facebook.com/")}>
         Learn More
       </Button>
     </LeftSection>
