@@ -17,7 +17,7 @@ const Hero = (props) => (
       </SectionTitle>
       <SectionText>
         You have arrived at AstraStream Digital an SMM (Social Media Marketing)
-        Agency based in Abu-Dhabi, UAE. We not only specialize in digital
+        Agency based in Manchester, UK. We not only specialize in digital
         marketing but also serve as your committed growth allies. Our
         fundamental principles revolve around a robust Unique Selling
         Proposition that flawlessly merges data-based digital marketing
