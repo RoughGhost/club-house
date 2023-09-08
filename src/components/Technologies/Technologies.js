@@ -50,7 +50,7 @@ const Technologies = () => (
           </ListParagraph>
         </ListContainer>
       </ListItem>
-      <ListItem>
+      {/* <ListItem>
         <DiZend size="3rem" />
         <ListContainer>
           <ListTitle>Marketing Coach</ListTitle>
@@ -63,7 +63,7 @@ const Technologies = () => (
             true potential of their digital presence.
           </ListParagraph>
         </ListContainer>
-      </ListItem>
+      </ListItem> */}
       <ListItem>
         <DiWebplatform size="3rem" />
         <ListContainer>
