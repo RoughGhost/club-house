@@ -19,12 +19,9 @@ const Hero = (props) => (
         You've landed at AstraStream Digital, an SMM (Social Media Marketing)
         Agency headquartered in Montreal, Canada. Here at AstraStream, we're not
         just about digital marketing; we're your dedicated partners in growth.
-        Our core philosophy revolves around a powerful Unique Selling
-        Proposition that seamlessly combines data-driven digital marketing
-        mastery with personalized coaching methods. We empower small business
-        owners to supercharge their advertising strategies, achieving unmatched
-        revenue heights and dominate in their local markets, all without
-        stretching their budgets.
+        We empower small business owners to supercharge their advertising
+        strategies, achieving unmatched revenue heights and dominate in their
+        local markets, all without stretching their budgets.
       </SectionText>
       <Button onClick={() => (window.location = "https://www.facebook.com/")}>
         Learn More
