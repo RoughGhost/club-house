@@ -10,7 +10,7 @@ export const projects = [
   {
     title: "Succesful Facebook Ads for growing brands Visibility",
     description:
-      "This was a successful project that I worked on helping an Eye Care business grow their brand visibility on Facebook",
+      "This was a successful project that I worked on helping a Photography business grow their brand visibility on Facebook",
     image: "/images/facebook-ads-dashboard-impressions.png",
     tags: ["Facebook Ads", "Pay-Per-Click"],
     id: 1,
