@@ -8,8 +8,8 @@ import {
 import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
 const data = [
-  { number: 70, text: "Businesses I have worked with" },
-  { number: 70, text: "Completed Projects" },
+  { number: 20, text: "Businesses I have worked with" },
+  { number: 20, text: "Completed Projects" },
 ];
 
 const Acomplishments = () => (
