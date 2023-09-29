@@ -17,11 +17,11 @@ const Hero = (props) => (
       </SectionTitle>
       <SectionText>
         You've landed at AstraStream Digital, an SMM (Social Media Marketing)
-        Agency. Here at AstraStream, we're not just about digital marketing;
-        we're your dedicated partners in growth. We empower Photographers to
-        supercharge their advertising strategies, achieving unmatched revenue
-        heights and dominate in their local markets, all without stretching
-        their budgets.
+        Agency based in Manchester, United Kingdom. Here at AstraStream, we're
+        not just about digital marketing; we're your dedicated partners in
+        growth. We empower Photographers to supercharge their advertising
+        strategies, achieving unmatched revenue heights and dominate in their
+        local markets, all without stretching their budgets.
       </SectionText>
       <Button onClick={() => (window.location = "https://www.facebook.com/")}>
         Learn More
