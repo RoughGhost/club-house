@@ -68,11 +68,11 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         I'm a passionate and dynamic force in the realms of Digital Marketing
-        with a mission to help Photographers dominate their local market,
-        ensuring also they become the go-to choice for customers in their area.
-        With over 2 years of experience, I've navigated the ever-evolving
-        digital landscape, transforming businesses through the fusion of
-        data-driven strategies that led to local domination.
+        with a mission to help small business owners dominate their local
+        market, ensuring also they become the go-to choice for customers in
+        their area. With over 2 years of experience, I've navigated the
+        ever-evolving digital landscape, transforming businesses through the
+        fusion of data-driven strategies that led to local domination.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScoll={handleScroll}>
         <>

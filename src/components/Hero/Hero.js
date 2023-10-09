@@ -19,11 +19,17 @@ const Hero = (props) => (
         You've landed at AstraStream Digital, an SMM (Social Media Marketing)
         Agency based in Manchester, United Kingdom. Here at AstraStream, we're
         not just about digital marketing; we're your dedicated partners in
-        growth. We empower Photographers to supercharge their advertising
-        strategies, achieving unmatched revenue heights and dominate in their
-        local markets, all without stretching their budgets.
+        growth. We empower business owners to 10x their revenue in 90 days by
+        supercharging their advertising strategies, achieving unmatched revenue
+        heights and dominate in their local markets, all without stretching
+        their budgets.
       </SectionText>
-      <Button onClick={() => (window.location = "https://www.facebook.com/")}>
+      <Button
+        onClick={() =>
+          (window.location =
+            "https://stephenlouis34e.systeme.io/astrastream-digital")
+        }
+      >
         Learn More
       </Button>
     </LeftSection>
